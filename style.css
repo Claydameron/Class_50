@@ -1,0 +1,35 @@
+/** {
+    border: solid
+}
+*/
+.header{
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.spacing{
+    margin-left: 10px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+p,h2{
+    text-align: center;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.bodyBg{
+    background-color: orange;
+    display: flex;
+    justify-content: space-evenly;
+}
